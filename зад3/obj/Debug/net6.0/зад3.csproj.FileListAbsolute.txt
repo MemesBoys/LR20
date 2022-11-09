@@ -1,0 +1,15 @@
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\bin\Debug\net6.0\зад3.exe
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\bin\Debug\net6.0\зад3.deps.json
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\bin\Debug\net6.0\зад3.runtimeconfig.json
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\bin\Debug\net6.0\зад3.dll
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\bin\Debug\net6.0\зад3.pdb
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\obj\Debug\net6.0\зад3.csproj.AssemblyReference.cache
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\obj\Debug\net6.0\зад3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\obj\Debug\net6.0\зад3.AssemblyInfoInputs.cache
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\obj\Debug\net6.0\зад3.AssemblyInfo.cs
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\obj\Debug\net6.0\зад3.csproj.CoreCompileInputs.cache
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\obj\Debug\net6.0\зад3.dll
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\obj\Debug\net6.0\refint\зад3.dll
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\obj\Debug\net6.0\зад3.pdb
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\obj\Debug\net6.0\зад3.genruntimeconfig.cache
+C:\Users\Mr_Armen\source\repos\Лр1\зад3\obj\Debug\net6.0\ref\зад3.dll

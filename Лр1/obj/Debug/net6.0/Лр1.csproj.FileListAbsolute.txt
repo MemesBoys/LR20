@@ -1,0 +1,15 @@
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\obj\Debug\net6.0\Лр1.csproj.AssemblyReference.cache
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\obj\Debug\net6.0\Лр1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\obj\Debug\net6.0\Лр1.AssemblyInfoInputs.cache
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\obj\Debug\net6.0\Лр1.AssemblyInfo.cs
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\obj\Debug\net6.0\Лр1.csproj.CoreCompileInputs.cache
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\bin\Debug\net6.0\Лр1.exe
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\bin\Debug\net6.0\Лр1.deps.json
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\bin\Debug\net6.0\Лр1.runtimeconfig.json
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\bin\Debug\net6.0\Лр1.dll
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\bin\Debug\net6.0\Лр1.pdb
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\obj\Debug\net6.0\Лр1.dll
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\obj\Debug\net6.0\refint\Лр1.dll
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\obj\Debug\net6.0\Лр1.pdb
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\obj\Debug\net6.0\Лр1.genruntimeconfig.cache
+C:\Users\Mr_Armen\source\repos\Лр1\Лр1\obj\Debug\net6.0\ref\Лр1.dll
